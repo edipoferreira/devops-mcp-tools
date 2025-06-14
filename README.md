@@ -26,9 +26,7 @@ pip install -r code/mcp-devops-python/requirements.txt
 
 ## Running the server
 
-```bash
-python code/mcp-devops-python/server-mcp.py
-```
+The MCP server will be executed automatically by VS Code when configured properly. You do not need to run it manually. Ensure your `settings.json` or `mcp.json` is correctly set up to point to the server script.
 
 ## Documentation
 
