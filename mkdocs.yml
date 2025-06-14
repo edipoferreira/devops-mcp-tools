@@ -1,0 +1,24 @@
+site_name: MCP DevOps Tools
+site_url: https://edipof.github.io/devops-mcp-tools/
+
+theme:
+  name: material
+  language: en
+
+plugins:
+  - search
+  - i18n:
+      languages:
+        - locale: en
+          name: English
+          default: true
+        - locale: pt
+          name: Português
+      nav_translations:
+        pt:
+          Home: Início
+          'WSL Workaround': 'Solução WSL'
+
+nav:
+    - Home: index.md
+    - WSL Workaround: workaround.md
