@@ -16,12 +16,16 @@ Estas ferramentas requerem que as seguintes variáveis de ambiente sejam definid
 * `jenkins_api_get(endpoint: str) -> dict`: Realiza uma requisição GET para a API do Jenkins.
 * `jenkins_api_post(endpoint: str, data: str, content_type: str = "application/xml") -> dict`: Realiza uma requisição POST para a API do Jenkins.
 
+![alt text](image.png)
+
 ### Docker
 
 * `docker_compose_up(path: str) -> str`: Executa `docker compose up -d` para um determinado arquivo Docker Compose.
 * `docker_compose_down(path: str) -> str`: Executa `docker compose down` para um determinado arquivo Docker Compose.
 * `docker_compose_logs(path: str, lines: int = 100) -> str`: Recupera os logs de um serviço do Docker Compose.
 * `docker_ps() -> list[dict]`: Lista os contêineres Docker em execução.
+
+![alt text](image-1.png)
 
 ### Kubernetes
 

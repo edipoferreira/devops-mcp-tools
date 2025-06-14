@@ -16,12 +16,16 @@ These tools require the following environment variables to be set:
 * `jenkins_api_get(endpoint: str) -> dict`: Performs a GET request to the Jenkins API.
 * `jenkins_api_post(endpoint: str, data: str, content_type: str = "application/xml") -> dict`: Performs a POST request to the Jenkins API.
 
+![alt text](image.png)
+
 ### Docker
 
 * `docker_compose_up(path: str) -> str`: Runs `docker compose up -d` for a given Docker Compose file.
 * `docker_compose_down(path: str) -> str`: Runs `docker compose down` for a given Docker Compose file.
 * `docker_compose_logs(path: str, lines: int = 100) -> str`: Retrieves logs from a Docker Compose service.
 * `docker_ps() -> list[dict]`: Lists running Docker containers.
+
+![alt text](image-1.png)
 
 ### Kubernetes
 
