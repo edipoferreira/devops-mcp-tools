@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://edipof.github.io/devops-mcp-tools/</loc>
+        <lastmod>2025-06-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://edipof.github.io/devops-mcp-tools/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://edipof.github.io/devops-mcp-tools/pt/"/>
+    </url>
+    <url>
+        <loc>https://edipof.github.io/devops-mcp-tools/workaround/</loc>
+        <lastmod>2025-06-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://edipof.github.io/devops-mcp-tools/workaround/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://edipof.github.io/devops-mcp-tools/pt/workaround/"/>
+    </url>
+    <url>
+        <loc>https://edipof.github.io/devops-mcp-tools/pt/</loc>
+        <lastmod>2025-06-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://edipof.github.io/devops-mcp-tools/pt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://edipof.github.io/devops-mcp-tools/"/>
+    </url>
+    <url>
+        <loc>https://edipof.github.io/devops-mcp-tools/pt/workaround/</loc>
+        <lastmod>2025-06-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://edipof.github.io/devops-mcp-tools/pt/workaround/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://edipof.github.io/devops-mcp-tools/workaround/"/>
+    </url>
+</urlset>
